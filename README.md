@@ -6,7 +6,7 @@
 
 The aim of the project is to apply Supervised Learning methods to real census data to predict the salary of potential donors for a ficticious charity organisation called CharityML.
 
-To view the full report for this project (code included), please download the report.html file and open with a browser.
+To view the full report for this project (code included) please download the report.html file and open with a browser.
 
 This project is part of the Introduction to Machine Learning Nanodegree on Udacity.
 
