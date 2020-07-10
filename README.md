@@ -1,37 +1,25 @@
-# Data Scientist Nanodegree
-# Supervised Learning
-## Project: Finding Donors for CharityML
 
-### Install
+# Supervised Learning Project
+## Finding Donors for CharityML
 
-This project requires **Python 3.x** and the following Python libraries installed:
+### Description
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+The aim of the project is to apply Supervised Learning methods to real census data to predict the salary of potential donors for a ficticious charity organisation called CharityML.
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+To view the full report for this project (code included) please download the report.html file and open with a browser.
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
-
-### Code
-
-Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+This project is part of the Introduction to Machine Learning Nanodegree on Udacity.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+Clone this repo and open finding_donors.ipynb (you'll need to have Jupyter Notebook or Jupyter Lab installed):
 
-```bash
-ipython notebook finding_donors.ipynb
-```  
-or
-```bash
-jupyter notebook finding_donors.ipynb
+```
+$ git clone https://github.com/IoannisGeorgousis/CharityML-Udacity-Project.git
+$ cd charity-ml
+$ jupyter lab finding_donors.ipynb
 ```
 
-This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
@@ -54,3 +42,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+
+## License
+This project is made availabe under the [MIT License](https://choosealicense.com/licenses/mit/).
