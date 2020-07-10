@@ -42,3 +42,6 @@ The modified census dataset consists of approximately 32,000 data points, with e
 
 **Target Variable**
 - `income`: Income Class (<=50K, >50K)
+
+## License
+This project is made availabe under the [MIT License](https://choosealicense.com/licenses/mit/).
