@@ -14,11 +14,11 @@ This project is part of the Introduction to Machine Learning Nanodegree on Udaci
 
 Clone this repo and open finding_donors.ipynb (you'll need to have Jupyter Notebook or Jupyter Lab installed):
 
-'''
-$ git clone https://github.com/IoannisGeorgousis/CharityML-Udacity-Project.git
-$ cd charity-ml
-$ jupyter lab finding_donors.ipynb
-'''
+
+`$ git clone https://github.com/IoannisGeorgousis/CharityML-Udacity-Project.git`
+`$ cd charity-ml`
+`$ jupyter lab finding_donors.ipynb`
+
 
 
 ### Data
